@@ -5,3 +5,30 @@ h1{
 p{
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.Komune {
+    padding-left: 26mm;
+}
+
+.button {
+    border-radius: 25px;
+    text-align: center;
+    background-color: #00BF6F;
+    color: white;
+    position: absolute;
+    border: none;
+    min-height:30px; 
+    min-width: 120px;
+  
+}
+
+.button:hover {
+    background-color: #00f729 ;
+    transition: 0.3s;
+}
+
+.questionnaire {
+   display: block;
+   padding-top: 15px;
+   padding-left: 100px;
+}
