@@ -32,3 +32,11 @@ p{
    padding-top: 15px;
    padding-left: 100px;
 }
+
+*{
+    background-color: grey;
+}
+
+.header {
+    background-color: white;
+}
